@@ -613,8 +613,16 @@ h1 .first-letter{
         background-color: black;
     }
 
+    .manual-btn{
+        padding: .4rem;
+    }
+
+    .navigation-auto div{
+        padding: .4rem;
+    }
     .navigation-auto,
     .navigation-manual{
+        padding: .2rem;
         margin-top: 30rem;
     }
 
@@ -683,6 +691,12 @@ h1 .first-letter{
 
     .shopping-cart{
         transform: translateX(75vw);
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .image-box-container{
+        grid-template-columns: repeat(5,1fr);
     }
 }
 
