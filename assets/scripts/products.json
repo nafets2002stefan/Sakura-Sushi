@@ -1,0 +1,92 @@
+{
+    "items" :[
+        {
+            "sys": { "id" : "1"},
+            "fields": {
+                "title": "Philadelphia",
+                "price": 89,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/Philadelphia_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "2"},
+            "fields": {
+                "title": "Canada",
+                "price": 92,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/Canada_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "3"},
+            "fields": {
+                "title": "Samurai",
+                "price": 72,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/Samurai_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "4"},
+            "fields": {
+                "title": "Sensei",
+                "price": 74,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/Sensei_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "5"},
+            "fields": {
+                "title": "Yakuza",
+                "price": 38,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/Yakuza_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "6"},
+            "fields": {
+                "title": "Ninja",
+                "price": 64,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/Ninja_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "7"},
+            "fields": {
+                "title": "Banzai",
+                "price": 91,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/Banzai_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "8"},
+            "fields": {
+                "title": "Budo Set",
+                "price": 239,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/budo-set_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "9"},
+            "fields": {
+                "title": "Samurai Road",
+                "price": 341,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/Calea-Samuraiului-set_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "10"},
+            "fields": {
+                "title": "Sumomic set",
+                "price": 274,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/sumomic-set_1.png"}}}
+            }
+        },
+        {
+            "sys": { "id" : "11"},
+            "fields": {
+                "title": "Zen set",
+                "price": 540,
+                "image": { "fields": { "file" :{ "url" : "./assets/images/zen-set_1.png"}}}
+            }
+        }
+    ]
+}
